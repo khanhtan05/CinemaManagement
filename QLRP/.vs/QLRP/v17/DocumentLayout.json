@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\24.3\\19.3\\9.3\\QLRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|d:\\24.3\\19.3\\9.3\\qlrp\\qlrp\\gui\\frm_banve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\frm_banve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|d:\\24.3\\19.3\\9.3\\qlrp\\qlrp\\ucmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\ucmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|d:\\24.3\\19.3\\9.3\\qlrp\\qlrp\\gui\\frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\frm_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|d:\\24.3\\19.3\\9.3\\qlrp\\qlrp\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\bus\\bus_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\dao\\dao_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dao\\dao_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\dao\\dao_frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dao\\dao_frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|d:\\24.3\\19.3\\9.3\\qlrp\\qlrp\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|d:\\24.3\\19.3\\9.3\\qlrp\\qlrp\\dao\\dao_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dao\\dao_movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\dao\\dao_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dao\\dao_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dto\\dto_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\cinemamanagementdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\cinemamanagementdataset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\rpt_doanhthutheongay.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\rpt_doanhthutheongay.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\frm_inan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\frm_inan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\frm_inan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\frm_inan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\cinemamanagementdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\cinemamanagementdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\gui\\menutrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\menutrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\bus\\bus_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\bus\\bus_frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\bus\\bus_frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\dto\\dto_frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\dto\\dto_frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|D:\\24.3\\19.3\\9.3\\QLRP\\qlrp\\gui\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F0259D9-9BF1-491D-821F-361E6D47EEF1}|QLRP\\QLRP.csproj|solutionrelative:qlrp\\gui\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BUS_NhanVien.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\BUS\\BUS_NhanVien.cs",
+              "RelativeDocumentMoniker": "QLRP\\BUS\\BUS_NhanVien.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\BUS\\BUS_NhanVien.cs",
+              "RelativeToolTip": "QLRP\\BUS\\BUS_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:33:16.039Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Movie.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\frm_Movie.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\frm_Movie.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\frm_Movie.cs [Design]",
+              "RelativeToolTip": "QLRP\\GUI\\frm_Movie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:19:41.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_BanVe.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\frm_BanVe.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\frm_BanVe.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\frm_BanVe.cs [Design]",
+              "RelativeToolTip": "QLRP\\GUI\\frm_BanVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:05:32.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ucMovie.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\ucMovie.cs",
+              "RelativeDocumentMoniker": "QLRP\\ucMovie.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\ucMovie.cs [Design]",
+              "RelativeToolTip": "QLRP\\ucMovie.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:03:11.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QLRP\\DAO\\DataProvider.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QLRP\\DAO\\DataProvider.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:00:13.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAO_Movie.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_Movie.cs",
+              "RelativeDocumentMoniker": "QLRP\\DAO\\DAO_Movie.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_Movie.cs",
+              "RelativeToolTip": "QLRP\\DAO\\DAO_Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:00:08.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\Form1.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\Form1.cs [Design]*",
+              "RelativeToolTip": "QLRP\\GUI\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T07:47:14.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frm_InAn.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\frm_InAn.cs",
+              "RelativeDocumentMoniker": "QLRP\\frm_InAn.cs",
+              "ToolTip": "D:\\9.3\\QLRP\\QLRP\\frm_InAn.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9.3\\QLRP\\QLRP\\frm_InAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:22:04.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DTO_NhanVien.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DTO\\DTO_NhanVien.cs",
+              "RelativeDocumentMoniker": "QLRP\\DTO\\DTO_NhanVien.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DTO\\DTO_NhanVien.cs",
+              "RelativeToolTip": "QLRP\\DTO\\DTO_NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:33:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAO_FrmMain.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_FrmMain.cs",
+              "RelativeDocumentMoniker": "QLRP\\DAO\\DAO_FrmMain.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_FrmMain.cs",
+              "RelativeToolTip": "QLRP\\DAO\\DAO_FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:14:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAO_KhachHang.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_KhachHang.cs",
+              "RelativeDocumentMoniker": "QLRP\\DAO\\DAO_KhachHang.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_KhachHang.cs",
+              "RelativeToolTip": "QLRP\\DAO\\DAO_KhachHang.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:37:13.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frm_InAn.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\frm_InAn.cs",
+              "RelativeDocumentMoniker": "QLRP\\frm_InAn.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\frm_InAn.cs",
+              "RelativeToolTip": "QLRP\\frm_InAn.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:29:36.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "rpt_DoanhThuTheoNgay.rdlc [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\rpt_DoanhThuTheoNgay.rdlc",
+              "RelativeDocumentMoniker": "QLRP\\rpt_DoanhThuTheoNgay.rdlc",
+              "ToolTip": "D:\\9.3\\QLRP\\QLRP\\rpt_DoanhThuTheoNgay.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9.3\\QLRP\\QLRP\\rpt_DoanhThuTheoNgay.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-03-10T06:43:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DAO_NhanVien.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_NhanVien.cs",
+              "RelativeDocumentMoniker": "QLRP\\DAO\\DAO_NhanVien.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DAO\\DAO_NhanVien.cs",
+              "RelativeToolTip": "QLRP\\DAO\\DAO_NhanVien.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:33:27.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CinemaManagementDataSet.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\CinemaManagementDataSet.cs",
+              "RelativeDocumentMoniker": "QLRP\\CinemaManagementDataSet.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\CinemaManagementDataSet.cs",
+              "RelativeToolTip": "QLRP\\CinemaManagementDataSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T07:34:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\Form1.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\Form1.cs*",
+              "RelativeToolTip": "QLRP\\GUI\\Form1.cs*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswFoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T07:47:20.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\DangNhap.cs",
+              "ToolTip": "D:\\9.3\\QLRP\\QLRP\\GUI\\DangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9.3\\QLRP\\QLRP\\GUI\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:20:05.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CinemaManagementDataSet.xsd",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\CinemaManagementDataSet.xsd",
+              "RelativeDocumentMoniker": "QLRP\\CinemaManagementDataSet.xsd",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\CinemaManagementDataSet.xsd",
+              "RelativeToolTip": "QLRP\\CinemaManagementDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-03-10T07:15:36.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\DangNhap.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\DangNhap.cs",
+              "RelativeToolTip": "QLRP\\GUI\\DangNhap.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:22:33.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BUS_KhachHang.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\BUS\\BUS_KhachHang.cs",
+              "RelativeDocumentMoniker": "QLRP\\BUS\\BUS_KhachHang.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\BUS\\BUS_KhachHang.cs",
+              "RelativeToolTip": "QLRP\\BUS\\BUS_KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:57:07.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Menutrip.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\Menutrip.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\Menutrip.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\Menutrip.cs",
+              "RelativeToolTip": "QLRP\\GUI\\Menutrip.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:50:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\Program.cs",
+              "RelativeDocumentMoniker": "QLRP\\Program.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\Program.cs",
+              "RelativeToolTip": "QLRP\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:16:55.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DTO_FrmMain.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DTO\\DTO_FrmMain.cs",
+              "RelativeDocumentMoniker": "QLRP\\DTO\\DTO_FrmMain.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\DTO\\DTO_FrmMain.cs",
+              "RelativeToolTip": "QLRP\\DTO\\DTO_FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:14:43.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BUS_FrmMain.cs",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\BUS\\BUS_FrmMain.cs",
+              "RelativeDocumentMoniker": "QLRP\\BUS\\BUS_FrmMain.cs",
+              "ToolTip": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\BUS\\BUS_FrmMain.cs",
+              "RelativeToolTip": "QLRP\\BUS\\BUS_FrmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:13:56.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QLKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\24.3\\19.3\\9.3\\QLRP\\QLRP\\GUI\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "QLRP\\GUI\\QLKhachHang.cs",
+              "ToolTip": "D:\\9.3\\QLRP\\QLRP\\GUI\\QLKhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\9.3\\QLRP\\QLRP\\GUI\\QLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T08:38:52.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\LTWINDOW\QLRP\QLRP\bin\Debug\QLRP.exe.config
+D:\LTWINDOW\QLRP\QLRP\bin\Debug\QLRP.exe
+D:\LTWINDOW\QLRP\QLRP\bin\Debug\QLRP.pdb
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.csproj.AssemblyReference.cache
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.frm_main.resources
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.Properties.Resources.resources
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.csproj.GenerateResource.cache
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.csproj.CoreCompileInputs.cache
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.exe
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.pdb
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.exe.config
+D:\LTWINDOW\QLRP\QLRP\obj\Debug\QLRP.frm_QLKhachHang.resources
